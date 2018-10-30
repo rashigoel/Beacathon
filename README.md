@@ -1,5 +1,5 @@
 # Beacathon
-An android application for audio - visual heritage tour letting beacon( small Bluetooth radio transmitter) to connect to cell phones of the visitors and providing information of the nearby sculptures. 
+An Android Application for audio - visual heritage tour with the help of beacons( small Bluetooth radio transmitter) that will connect to the cell phones of the visitors and providing information of the nearby sculptures. 
 
 
 ## Screenshots
